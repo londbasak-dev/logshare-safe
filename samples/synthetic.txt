@@ -1,0 +1,8 @@
+2026-01-01T00:00:00Z level=INFO email=demo@example.test client=192.0.2.10
+Authorization: Bearer SYNTHETIC_NOT_A_REAL_CREDENTIAL
+password="synthetic demonstration only"
+request=https://demo:synthetic@example.test/items?token=synthetic-value&view=all
+custom_id=SYNTHETIC_CUSTOM_ID
+-----BEGIN PRIVATE KEY-----
+SYNTHETIC_INVALID_DEMO_BODY_NOT_A_KEY
+-----END PRIVATE KEY-----

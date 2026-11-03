@@ -1,0 +1,11 @@
+{
+  "notice": "All data in this fixture is synthetic",
+  "account": {
+    "email": "demo@example.test",
+    "api_key": "SYNTHETIC_NOT_A_REAL_KEY"
+  },
+  "events": [
+    {"ip": "192.0.2.10", "detail": "Bearer SYNTHETIC_DEMO_TOKEN"},
+    {"public": "Example successful operation"}
+  ]
+}
